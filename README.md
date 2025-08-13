@@ -12,3 +12,5 @@ Calculator webapp in python
 2. Create a placeholder to show the input value and output
 
 3. Add how-to.md file
+
+4. Add status check
